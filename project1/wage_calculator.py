@@ -1,4 +1,5 @@
 def wage_calculator():
+    """This function takes no arguments"""
     hour = input('How many hours?')
 
     try:

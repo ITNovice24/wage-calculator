@@ -1,6 +1,6 @@
 # Wage Calculator Script
 
-![Calculator](calculator.jpg)
+![Calculator](calculator3.png)
 ## **What it does** 
  Calculates hourly wages for the week by taking a user input. The script will also account for overtime :dollar:
 
