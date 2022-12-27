@@ -77,7 +77,7 @@ def calculate_hourly_wage():
             
             
             #this try-except is determining if the hour argument can be casted as a float or isn't negative
-            #if value is negative or not able to be a float, program will end
+            #if value is negative or not able to be a float, program will terminate
             try:
                 rate = float(rate)
                 if rate < 0:
