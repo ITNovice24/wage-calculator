@@ -5,7 +5,7 @@
  Calculates hourly wages for the week by taking a user input. The script will not account for overtime. The script will assume weekly wage doesn't change and calculate a monthly wage. If the user specifies that their weekly hours changed, the program will only calculate total wages for the weeks worked. :dollar:
 
  ##**How it runs**
- 1. One calculator is the paycheck_calculator module
+ 1. The calculator is in the paycheck_calculator module
  
  2. See main.py to run the complete program 
 
