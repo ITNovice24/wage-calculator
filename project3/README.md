@@ -24,8 +24,8 @@
 
  ## **Java Syntax Used**
  1. Classes :school:
- 2. Built-in Java Packages
- 3. Loops (Do-while, while) 
+ 2. Built-in Java Packages :mailbox:
+ 3. Loops (Do-while, while) :loop:
  4. Conditional Statements :mag:
  5. Array :clipboard:
  6. Modular Programming (functions) :hammer:
