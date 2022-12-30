@@ -1,8 +1,7 @@
-from paycheck_calculator import calculate_hourly_wage
+from pc_calc_updated import paycheck_calculator
 
 def main():
-    calculate_hourly_wage()
-
+    paycheck_calculator()
 
 if __name__ == '__main__':
     main()
