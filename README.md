@@ -27,3 +27,4 @@
  3. Conditional Statement :mag:
  4. Lists :clipboard:
  5. Modular Programming (functions) :hammer:
+# wage-calculator
