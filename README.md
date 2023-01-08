@@ -2,10 +2,10 @@
 
 ![Calculator](calculator3.png)
 ## **What it does** 
- Calculates hourly wages for the week by taking a user input. The script will also account for overtime. The script will assume weekly wage doesn't change and calculate a monthly wage. :dollar:
+ Calculates hourly wages for the week by taking a user input. The script will not account for overtime. The script will assume weekly wage doesn't change and calculate a monthly wage. If the user specifies that their weekly hours changed, the program will only calculate total wages for the weeks worked. :dollar:
 
- ##**How it runs**
- 1. Each calculator is in a different module
+ ## **How it runs**
+ 1. The calculator is in the paycheck_calculator module
  
  2. See main.py to run the complete program 
 
@@ -21,5 +21,9 @@
 
  ---
 
- ## **Error Catching**
- 1. Any value less than 0 will cause the program to terminate :no_entry_sign: 
+ ## **Python Syntax Used**
+ 1. Failure Handling :no_entry_sign: 
+ 2. Loops :repeat:
+ 3. Conditional Statement :mag:
+ 4. Lists :clipboard:
+ 5. Modular Programming (functions) :hammer:

@@ -1,8 +1,7 @@
-from monthly_calculator import calculate_monthly_wage
+from pc_calc_updated import paycheck_calculator
 
 def main():
-    calculate_monthly_wage()
-
+    paycheck_calculator()
 
 if __name__ == '__main__':
     main()
